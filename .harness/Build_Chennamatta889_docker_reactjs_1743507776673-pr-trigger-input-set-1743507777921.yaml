@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_Chennamatta889_docker_reactjs_1743507776673-pr-trigger-input-set
+  identifier: Build_Chennamatta889_docker_reactjs_1743507776673prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: harness
+  pipeline:
+    identifier: Build_Chennamatta889_docker_reactjs_1743507776673
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
