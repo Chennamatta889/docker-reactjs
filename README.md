@@ -17,7 +17,8 @@ Docker version 18.03.1-ce, build 9ee9f40
 ```
 
 
-### Installing
+
+### Installing the 
 
 ```
 git clone https://github.com/thejungwon/docker-reactjs.git
